@@ -1,4 +1,4 @@
-name: Cyber
+name: CyberGate
 favicon: null
 layout_spectrum: 0.2833942861761898
 typography_spectrum: 0.5742169611621648
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.9669082765467465
-  lightness: 0.43143017892725766
-  saturation: 0.8948569311760366
-  rhythmicContrast: 0.29456475540064275
+    - '#ffffff'
+    - '#000000'
+    - '#006cd1'
+    - '#636363'
+    - '#6ab3d7'
+  brandStrength: 0.75
+  lightness: 0.4375
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
