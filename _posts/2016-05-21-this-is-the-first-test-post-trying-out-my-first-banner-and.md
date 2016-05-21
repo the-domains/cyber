@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'This is the first test post. Trying out my first banner and logo. '
-datePublished: '2016-05-21T19:08:51.949Z'
-dateModified: '2016-05-21T19:08:35.916Z'
+datePublished: '2016-05-21T19:12:44.855Z'
+dateModified: '2016-05-21T19:12:23.913Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-21-this-is-the-first-test-post-trying-out-my-first-banner-and.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-21-this-is-the-first-test-post-trying-out-my-first-banner-and.md
 url: this-is-the-first-test-post-trying-out-my-first-banner-and/index.html
 _type: Article
 
