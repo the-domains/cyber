@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'This is the first test post. Trying out my first banner and logo. '
-datePublished: '2016-05-21T19:12:44.855Z'
-dateModified: '2016-05-21T19:12:23.913Z'
+datePublished: '2016-05-21T19:29:29.563Z'
+dateModified: '2016-05-21T19:13:21.536Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-21-this-is-the-first-test-post-trying-out-my-first-banner-and.md
 authors: []
 publisher: null
@@ -21,4 +23,4 @@ _type: Article
 
 This is the first test post. Trying out my first banner and logo. 
 
-This site will be a creative outlet for me and hopefully extra context to the videos I publish. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7917579d-1c5a-4b4b-81f6-a771d0d2f8a7.jpg)
+This site will be a creative outlet for me and hopefully extra context to the videos I publish.
