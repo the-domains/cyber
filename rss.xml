@@ -4,14 +4,14 @@
         <description><![CDATA[Test]]></description>
         <link>https://thegrid.ai/cyber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 19:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 02:03:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cyber/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47031d2a-7d7b-41b4-99f4-6c67ed9249f2.jpg">]]></description>
+            <title><![CDATA[CyberGate Studio]]></title>
+            <description><![CDATA[<article><h1>CyberGate Studio</h1><p>This site will be a creative outlet for me and hopefully extra context to the videos I publish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cd22ea02785b02b61f9dec45aa82eacee2cf3a5.jpg"></article>]]></description>
             <link>https://thegrid.ai/cyber/this-is-the-first-test-post-trying-out-my-first-banner-and/index.html</link>
             <guid isPermaLink="false">101740e9-3665-48e7-87d1-80eb251f0304</guid>
-            <pubDate>Sat, 21 May 2016 19:29:29 GMT</pubDate>
+            <pubDate>Sun, 22 May 2016 02:03:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
