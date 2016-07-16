@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Test]]></title>
-        <description><![CDATA[Test]]></description>
+        <title><![CDATA[CyberGate Studio]]></title>
+        <description><![CDATA[CyberGate Studio]]></description>
         <link>https://thegrid.ai/cyber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 02:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 21:42:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cyber/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I've created a YouTube Channel! Check it out at </p>]]></description>
+            <link>https://thegrid.ai/cyber/ive-created-a-youtube-channel-check-it-out-at/index.html</link>
+            <guid isPermaLink="false">1413e8c9-b677-4980-a602-dbcd1adbdf60</guid>
+            <pubDate>Sat, 16 Jul 2016 21:42:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CyberGate Studio]]></title>
-            <description><![CDATA[<article><h1>CyberGate Studio</h1><p>This site will be a creative outlet for me and hopefully extra context to the videos I publish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cd22ea02785b02b61f9dec45aa82eacee2cf3a5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>CyberGate Studio</h1><p>This site will be a creative outlet for me and hopefully extra context to the videos I publish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d48769cb9f1f9c99e8e233103761f5a5493ef7f.jpg"></article>]]></description>
             <link>https://thegrid.ai/cyber/this-is-the-first-test-post-trying-out-my-first-banner-and/index.html</link>
             <guid isPermaLink="false">101740e9-3665-48e7-87d1-80eb251f0304</guid>
             <pubDate>Sun, 22 May 2016 02:03:49 GMT</pubDate>
